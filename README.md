@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Faizan
+
 ## Backend Software Engineer | Full Stack Developer 
-🌟 About Me
+
+## 🌟 About Me
 I’m an aspiring backend software engineer with a growing interest in full-stack development. My expertise lies in building scalable, efficient systems, and crafting meaningful user experiences. Currently, I'm expanding my skills in both backend and frontend development to deliver end-to-end solutions.
 
 ## My tech journey revolves around:
