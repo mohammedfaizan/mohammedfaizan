@@ -23,8 +23,7 @@ A platform for sharing thoughts and ideas, focusing on real-time interactions an
 Backend:
 Languages: Go, Python, SQL
 Databases: PostgreSQL
-Frameworks: Flask, Django, Fiber (Go)
-DevOps: Docker, Docker Compose
+DevOps: Docker
 Authentication: JWT, OAuth
 Frontend:
 Languages: HTML5, CSS3, JavaScript, TypeScript (learning)
@@ -38,8 +37,8 @@ React + TypeScript: Improving my frontend proficiency by building dynamic, type-
 ## 📫 Get in Touch
 I’m always excited to collaborate on interesting projects, especially in the areas of full-stack development, backend systems, and user-centered applications. Feel free to connect with me:
 
-## GitHub: [Your GitHub Profile Link]
-## LinkedIn: [Your LinkedIn Profile Link]
+## GitHub: [https://github.com/mohammedfaizan/mohammedfaizan]
+## LinkedIn: [www.linkedin.com/in/mohammed-faizan-439678202]
 
 ### 🐾 Fun Facts
 
